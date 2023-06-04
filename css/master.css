@@ -263,7 +263,7 @@ header .navbar {
 /* end about us  */
 /* start features */
 .features {
-    background: url(/imgs/features_background.png);
+    background: url(/imgs/features_background.webp);
     background-position:center;
     background-repeat: no-repeat;
     background-size: auto;
@@ -392,7 +392,7 @@ header .navbar {
 /* end gallery  */
 /* start events  */
 .events {
-    background: url(/imgs/features_background.png);
+    background: url(/imgs/features_background.webp);
     background-position:center;
     background-repeat: no-repeat;
     background-size: auto;
